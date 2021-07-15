@@ -1,5 +1,5 @@
 {
-  "name": "module-2",
+  "name": "zzh-module-2",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -56,5 +56,6 @@
     "webpack-cli": "3.3.6",
     "webpack-dev-server": "3.4.0",
     "webpack-merge": "4.2.2"
-  }
+  },
+  "gitHead": "287aa5a9b5bd253f2268b0ad7d72c551c768f207"
 }
