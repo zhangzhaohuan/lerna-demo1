@@ -1,0 +1,22 @@
+{
+  "index": {
+    "page": "index",
+    "chunks": [
+      "index",
+      "vendors",
+      "reactbase",
+      "jquery",
+      "runtimechunk"
+    ]
+  },
+  "search": {
+    "page": "search",
+    "chunks": [
+      "search",
+      "vendors",
+      "reactbase",
+      "jquery",
+      "runtimechunk"
+    ]
+  }
+}
